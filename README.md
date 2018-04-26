@@ -6,6 +6,6 @@
 
 •	An Admin Portal having the features of creating new policies, adding new agents.
 
-•	Technologies Used: Java EE(JSP, Servlet), CSS, Javascript, MySQL, HTML .
+•	Technologies Used: Java 2EE(JSP, Servlet), CSS, Javascript, MySQL, HTML .
 
 Start execution from login.jsp/loginadmin.jsp
